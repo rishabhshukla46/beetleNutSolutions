@@ -1,0 +1,242 @@
+[
+    {
+        "managerName": "Mr Kung fu Pandey",
+        "managerPassword": "Badlapur",
+        "branchId": "31be3fa9-85f9-4174-ae74-8411026fcb9e"
+    },
+    {
+        "managerName": "Mr Kejriwal",
+        "managerPassword": "Wasseypur",
+        "branchId": "c0e59a28-cd6b-428e-ba37-68f157a2702a"
+    },
+    {
+        "managerName": "Mr Yadav",
+        "managerPassword": "Sundarnagar",
+        "branchId": "65a6f58c-8136-40b2-85a7-63ba323fea0c"
+    },
+    {
+        "managerName": "Mr Charles Goodwin",
+        "managerPassword": "Mordor",
+        "branchId": "a1f3b1a0-f5fa-44ae-944e-03b2fcda8631"
+    },
+    {
+        "managerName": "Mr Barry Richardds",
+        "managerPassword": "Shire",
+        "branchId": "d664f17a-59e7-442d-a984-b7671ef61ae0"
+    },
+    {
+        "managerName": "Mr Anrold Schwartzenegger",
+        "managerPassword": "Osgilliath",
+        "branchId": "76397717-2e98-4bdb-a971-77ae4349c393"
+    },
+    {
+        "managerName": "Mr Vinod Kambli",
+        "managerPassword": "Gondor",
+        "branchId": "5feb55f3-a039-4a51-90e4-a99fef930964"
+    },
+    {
+        "managerName": "Mr Roast Master",
+        "managerPassword": "Rohan",
+        "branchId": "9c2e2287-3840-4f30-ae33-655faa50a87e"
+    },
+    {
+        "managerName": "Mr.Manish Sisodia",
+        "managerPassword": "Isengard",
+        "branchId": "5fa56c57-5fbb-4b49-9910-905762445638"
+    },
+    {
+        "managerName": "Mr Charu Sharma",
+        "managerPassword": "Central Perk",
+        "branchId": "1f75668a-18f2-4b17-a23a-e80b9625816c"
+    },
+    {
+        "managerName": "Ms.Mandira Bedi",
+        "managerPassword": "Winterfell",
+        "branchId": "4ac4e1aa-176f-4e0b-88e6-ffef6654e330"
+    },
+    {
+        "managerName": "Mr Ram Gopal Verma",
+        "managerPassword": "Sea of Theseus",
+        "branchId": "c8b27563-530f-4316-a194-ca8cbbafe892"
+    },
+    {
+        "managerName": "Sir Sir Sir Ravindra Jaedga",
+        "managerPassword": "Don's Mansion",
+        "branchId": "f29e0944-03fa-4bf8-b935-b3b6bbad2a50"
+    },
+    {
+        "managerName": "Mr Manoj Kumar (Bharat)",
+        "managerPassword": "Hogwardts",
+        "branchId": "e3282679-84a3-43a1-a14b-9f054c90af3b"
+    },
+    {
+        "managerName": "Mr Viru Sahastra Buddhey",
+        "managerPassword": "Platform 3/4",
+        "branchId": "ed08af93-4c9c-4264-8ab6-e3c3755520e3"
+    },
+    {
+        "managerName": "Mr Vijay Dinanath Chauhan",
+        "managerPassword": "Dongri",
+        "branchId": "26fe3a06-af62-4887-b4c0-4a6cfee3a706"
+    },
+    {
+        "managerName": "Mr Sambha",
+        "managerPassword": "Dubai",
+        "branchId": "36ec09aa-9452-48f8-bfa4-4ad8780feee8"
+    },
+    {
+        "managerName": "Thakurji",
+        "managerPassword": "Karimgunj",
+        "branchId": "b5519857-b096-4d67-af9f-3cdae706821b"
+    },
+    {
+        "managerName": "Mr PK",
+        "managerPassword": "Chinchpokli",
+        "branchId": "99b117ce-b7e6-48f3-85fa-281cf0bf565b"
+    },
+    {
+        "managerName": "Mr Ranchodas Syamaldas Chhanchad",
+        "managerPassword": "Chiplun",
+        "branchId": "860c9004-40ad-488c-a36c-2c2cbc2ced69"
+    },
+    {
+        "managerName": "Mr Amar",
+        "managerPassword": "Kargil",
+        "branchId": "d7003b49-f189-49e6-b2c1-02abad183858"
+    },
+    {
+        "managerName": "Mr Prem",
+        "managerPassword": "LOC",
+        "branchId": "f7a07e8f-5e54-40d6-81e2-2ae3722445b5"
+    },
+    {
+        "managerName": "Mr Crime Master Gogo",
+        "managerPassword": "LAC",
+        "branchId": "2d32c63f-6e6c-46c4-833e-54573bea077d"
+    },
+    {
+        "managerName": "Mr Teja Main Hoon",
+        "managerPassword": "Mandwa",
+        "branchId": "c02f8686-6b28-4584-a721-32716f976bd3"
+    },
+    {
+        "managerName": "Mr Anand Akela",
+        "managerPassword": "Chennai Xpress",
+        "branchId": "a14ac3b9-bcce-4d70-8f85-c06f78a96e4b"
+    },
+    {
+        "managerName": "Mr Raveena Urf Karishna",
+        "managerPassword": "Mocambo's Cave",
+        "branchId": "de29cbd2-2b26-4a1a-9e31-755f3d763f53"
+    },
+    {
+        "managerName": "Ms Karishma Urf Ravina",
+        "managerPassword": "Gabbar's Plateau",
+        "branchId": "e03edc99-c0a7-41ac-a26e-9d3053679381"
+    },
+    {
+        "managerName": "Mr Robert",
+        "managerPassword": "Kasaul",
+        "branchId": "ba9fc101-c88d-452f-952b-4217e830310f"
+    },
+    {
+        "managerName": "Mr Bhalla",
+        "managerPassword": "Manaal",
+        "branchId": "286e2117-8c77-496c-8292-a8e3a63a94bf"
+    },
+    {
+        "managerName": "Mr Pappu Gandhi",
+        "managerPassword": "Sergeant at Arms",
+        "branchId": "e5fc90e9-4177-43c9-aace-d19b6d1a164f"
+    },
+    {
+        "managerName": "Mr Kim Chee Salad",
+        "managerPassword": "Krispy Chilly",
+        "branchId": "0eb644ab-2691-4411-ae3b-4f732ab59d92"
+    },
+    {
+        "managerName": "Mr Jai Singh",
+        "managerPassword": "Dove 3/4th Mois",
+        "branchId": "8d05d2d2-d7b2-479e-b094-3a7a88d96a00"
+    },
+    {
+        "managerName": "Ms Basanti",
+        "managerPassword": "Mclaren's",
+        "branchId": "a1bf4fa7-88ae-4ca0-afbf-b18907b40337"
+    },
+    {
+        "managerName": "Dr Garbage Bin",
+        "managerPassword": "Capitol Building",
+        "branchId": "77bd851f-8c39-485f-bee2-a1bee1889ab9"
+    },
+    {
+        "managerName": "Dr Shedlon Cooper",
+        "managerPassword": "West Wing",
+        "branchId": "fbe306df-30a2-4083-9301-2d4e618f3228"
+    },
+    {
+        "managerName": "Dr Rowdy Rathore",
+        "managerPassword": "Freddy's place",
+        "branchId": "0b5c4d88-6fc7-4904-9693-aab3f4dbec8a"
+    },
+    {
+        "managerName": "Mr Rahul (naam to suna hoga)",
+        "managerPassword": "The Cheesecake Factory",
+        "branchId": "6ee41ea3-d82d-44a3-b5fe-7933e4ee5559"
+    },
+    {
+        "managerName": "MrTeja (Mark idhar hai)",
+        "managerPassword": "Sheldon's Time Machine",
+        "branchId": "899d80f3-d00f-41c6-afa9-f9afc2eb3ca5"
+    },
+    {
+        "managerName": "Mr Deepak Chourasia",
+        "managerPassword": "Penny's apartment",
+        "branchId": "ac8fde20-ba94-4caa-95b9-8839b3678149"
+    },
+    {
+        "managerName": "Mr AIB",
+        "managerPassword": "Starbucks",
+        "branchId": "a0112f78-770f-478a-a063-dc7acbf4a870"
+    },
+    {
+        "managerName": "Mr Yo Yo honey Singh",
+        "managerPassword": "The Brown Stone",
+        "branchId": "9d0daa1f-48be-4d25-aa36-31357d592165"
+    },
+    {
+        "managerName": "Mr Piku",
+        "managerPassword": "Christie's Den",
+        "branchId": "dbce5438-efb8-424f-9869-f509a2a6790a"
+    },
+    {
+        "managerName": "Mr Ross Geller",
+        "managerPassword": "Summersault",
+        "branchId": "a66f36df-d7c3-4a62-b436-889fb8be37e0"
+    },
+    {
+        "managerName": "Ms Chanandler Bong",
+        "managerPassword": "Kkkkkkiran's Nest",
+        "branchId": "7c1595a9-4bfd-4517-a177-f7850ea1d280"
+    },
+    {
+        "managerName": "Mr Ugly Naked Guy",
+        "managerPassword": "Las Vegas Boulevard",
+        "branchId": "93dad9b0-2093-459f-bbaa-9c45c3be5bce"
+    },
+    {
+        "managerName": "Mr Red( Because I'm Irish)",
+        "managerPassword": "Wynn Palace",
+        "branchId": "e2406639-0bad-4f2c-a5de-b76764be9cca"
+    },
+    {
+        "managerName": "Ms Monica Obsessive Geller",
+        "managerPassword": "Brooklyn Bridge",
+        "branchId": "5231b945-dd80-44c3-9a86-14c704a57f6f"
+    },
+    {
+        "managerName": "Ms Phoebe Hyper Buffay",
+        "managerPassword": "Times Square",
+        "branchId": "be8c24be-8417-46e8-8202-8e96c1511a31"
+    }
+]
